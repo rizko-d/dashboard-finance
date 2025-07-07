@@ -1,7 +1,3 @@
-Absolutely, here’s a sample **README.md** (in English) you can directly use or adjust for your Tailwind-Vue finance dashboard project:
-
----
-
 # Personal Finance Dashboard
 
 A modern, responsive, single-page application for personal financial management and visualization. Built with **Vue 3 (Composition API)**, **Tailwind CSS**, **ApexCharts**, and **Heroicons**.
